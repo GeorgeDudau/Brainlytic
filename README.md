@@ -8,29 +8,29 @@ This project is designed for students who are studying under the Edexcel exam bo
 
 ## Features:
 
-### - User accounts and Saved Progress
+### User accounts and Saved Progress
 
 Allows for multiple accounts on one device with each account having their own set of progress and achievements
 
-### - Points and Shop System
+### Points and Shop System
 
 Allows for users to compete for points and utilise these points for cosmetic upgrades such as name tags or a new profile picture.
 
-### - Singleplayer 
+### Singleplayer 
 
 Allows for users to compete against bots for rewards. Bots vary by ability which will be notable by their profile picture. Different abilities grant different completion times and changes the probability of them getting a correct answer.
 
-### - LAN Multiplayer functionality
+### LAN Multiplayer functionality
 
 Enables users connected to the same network to join the same session and compete. 
 
-### - Exam Style Questions
+### Exam Style Questions
 
 All questions shown are exam style questions in the same style of Edexcel exams.
 
 ## Technologies Used:
 
-### - PyQT5 
+### PyQT5 
 
 Made using PyQT5 Designer software for the GUI. This creates an aesthetically pleasing environment with soft colours to make text more readable.
 
