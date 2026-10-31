@@ -38,9 +38,7 @@ Made using PyQT5 Designer software for the GUI. This creates an aesthetically pl
 
 All data stored is handled using SQLite 3. SQLite was used since this software is run locally without the need for an external database server.
 
-### - Hashlib
-
-### Password Hashing (Hashlib)
+### Hashlib
 
 Passwords are not stored in plaintext. Instead, PBKDF2-HMAC-SHA256 is used, with a unique randomly generated 16-byte salt for each account. Both the salt and resulting hash are stored in the SQLite database and used during subsequent login attempts.
 
