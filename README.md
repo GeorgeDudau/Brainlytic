@@ -34,7 +34,7 @@ All questions shown are exam style questions in the same style of Edexcel exams.
 
 Made using PyQT5 Designer software for the GUI. This creates an aesthetically pleasing environment with soft colours to make text more readable.
 
-### - SQLite 3
+### SQLite 3
 
 All data stored is handled using SQLite 3. SQLite was used since this software is run locally without the need for an external database server.
 
